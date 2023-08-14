@@ -1,4 +1,4 @@
-# ETL
+# Data Engineering - ETL
 A step by step guide that look into data extraction, transformation, and loading (ETL) from a local website using Python and the Beautiful Soup package.
 This project is made by Group 14 members:
 
